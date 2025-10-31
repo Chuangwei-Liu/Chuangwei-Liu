@@ -7,6 +7,6 @@
 
 - ⚡I'll be updating this page with my learning journey from time to time. Hope you enjoy your visit!
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:**cw_liu@hust.edu.cn**</h3>
 <p align="left">
 </p>
