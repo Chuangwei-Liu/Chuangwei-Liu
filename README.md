@@ -8,7 +8,3 @@
 - ⚡I'll be updating this page with my learning journey from time to time. Hope you enjoy your visit!
 
 - 📫 How to reach me **cw_liu@hust.edu.cn**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
